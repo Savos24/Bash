@@ -1,2 +1,0 @@
-# Bash
-Learning shell script
